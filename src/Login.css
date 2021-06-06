@@ -1,0 +1,34 @@
+.login {
+    background-color: #34324b;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
+
+.login__container > img {
+    object-fit: contain;
+    height: 150px;
+    margin-bottom: 50px;
+    padding: 10px;
+
+}
+
+.login__container {
+    padding: 100px;
+    text-align: center;
+    background-color: #f4b41a;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.login__container > button {
+    margin-top: 50px;
+    text-transform: inherit !important;
+    background-color: #34324b !important ;
+    color: #f4b41a;
+}
+
+.login__text {
+    color: #34324b;
+}
