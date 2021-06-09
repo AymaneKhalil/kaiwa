@@ -64,9 +64,9 @@
     background-repeat: repeat;
     background-position: center;
     padding: 30px;
-    overflow: scroll;
-    overflow-y: hidden;
-    overflow-x: hidden;
+    overflow: auto;
+    /*overflow-y: hidden;
+    overflow-x: hidden;*/
     
 }
 
